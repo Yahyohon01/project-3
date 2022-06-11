@@ -1,0 +1,91 @@
+body{
+    background: gray;
+}
+
+.clock{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.info{
+    padding: 1rem;
+    font-size: 40px;
+    color: rgb(128, 4, 0);
+}
+
+.info1{
+    padding: 1rem;
+    font-size: 40px;
+    color: rgb(128, 4, 0);
+}
+
+.info2{
+    padding: 1rem;
+    font-size: 40px;
+    color: rgb(128, 4, 0);
+}
+
+.dates{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.info3{
+    padding: 1rem;
+    font-size: 40px;
+    color: rgb(199, 173, 27);
+}
+
+.info4{
+    padding: 1rem;
+    font-size: 40px;
+    color: rgb(199, 173, 27);
+}
+
+.info5{
+    padding: 1rem;
+    font-size: 40px;
+    color: rgb(199, 173, 27);
+}
+
+.date{
+    color: crimson;
+}
+
+.month{
+    color: crimson;
+}
+
+.year{
+    color: crimson;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* BG */
+
+.btn{
+    background: url(./image.jpg) no-repeat;
+    background-size: cover;
+
+}
+
+/* .btn1{
+    background: url(./Без\ названия.jpg);
+} */
+
+/* .btn2{
+    background: crimson;
+}  */
